@@ -2,7 +2,7 @@
   If you are an Awesome WM user(and if you aren't you should be) you can drop this in your rc.lua and it will 
   generate a widget that notes your wireless status in the format of (connected: --Network-Name--) or (not-connected:)
   . This could be easily extended to include whatever wireless network data in pertinent to you that can be retrieved by calling
-  executables on the path. I drop this little bugger on my system tray and it works like a champ
+  executables on the path. I drop this little bugger on my system tray next to the clock and it works like a champ
 ## Dependencies
   iwconfig must be on your path
 ##Installation
